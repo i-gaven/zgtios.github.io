@@ -90,10 +90,8 @@ abbrlink:
 
 ### Hacker
 
-# valine comment
-valine: false
-leancloud_id:
-leancloud_key:
-
-# google analytics
-googleTrackId:
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
