@@ -89,8 +89,8 @@ abbrlink:
 
 # gitment
 gitment: true
-gitment_owner: 1223019346@qq.com
-gitment_repo: zgtios.github.io
+gitment_owner: zgtios
+gitment_repo: comments
 gitment_client_id: c86f5fdc4203db858805
 gitment_client_secret: 0b211f22147736a3e11ade7fbc97bd2d8e65ae6b
 
